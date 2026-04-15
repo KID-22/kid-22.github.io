@@ -262,14 +262,14 @@
     if (view === "full") {
       return [
         "<div class=\"publication-heading\">",
-        "  <h2 style=\"CLEAR: both;\">Full Publication <span class=\"publication-link\">[<a href=\"./index.html#papers\">Selected</a>]</span></h2>",
+        "  <h2 style=\"CLEAR: both;\">Full Publication <span class=\"publication-link\"><a href=\"./index.html#papers\">[Selected]</a></span></h2>",
         "</div>"
       ].join("\n");
     }
 
     return [
       "<div class=\"publication-heading\">",
-      "  <h2 style=\"CLEAR: both;\">Selected Publication <span class=\"publication-link\">[<a href=\"./full_pub.html#papers\">Full</a>]</span></h2>",
+      "  <h2 style=\"CLEAR: both;\">Selected Publication <span class=\"publication-link\"><a href=\"./full_pub.html#papers\">[Full]</a></span></h2>",
       "</div>"
     ].join("\n");
   }
