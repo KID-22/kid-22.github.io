@@ -204,3 +204,28 @@ A.thumbnail:hover {
     PADDING-BOTTOM: 7px;
     MARGIN-TOP: 5px
 }
+
+.publication-heading {
+    CLEAR: both;
+    MARGIN-BOTTOM: 8px;
+}
+
+.publication-link {
+    FONT-SIZE: 14px;
+    FONT-WEIGHT: normal;
+}
+
+.publication-link A {
+    COLOR: #483D8B;
+    BORDER: 1px solid #5f7fb5;
+    BORDER-RADIUS: 4px;
+    PADDING: 1px 7px;
+    BACKGROUND: #eef5ff;
+    TEXT-DECORATION: none;
+}
+
+.publication-link A:hover {
+    COLOR: #000000;
+    BORDER-COLOR: #2f5f9f;
+    BACKGROUND: #dcecff;
+}
