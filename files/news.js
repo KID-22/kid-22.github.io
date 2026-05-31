@@ -8,6 +8,26 @@
   // },
   var newsItems = [
     {
+      date: "24 May 2026",
+      text: "Our VenusBench-Mobile is selected as a <b><font color=\"red\">Oral (0.7%)</font></b> presentation at ICML 2026."
+    },
+    {
+      date: "17 May 2026",
+      text: "Two papers about reasoning for industrial ranking systems and unified multi-task ranking architecture are accepted by KDD 2026 Ads track."
+    },
+    {
+      date: "16 May 2026",
+      text: "One paper about interactive recommendation agents is accepted by KDD 2026. Congratulations to Jiakai!"
+    },
+    {
+      date: "14 May 2026",
+      text: "Our paper about latent reasoning for sequential recommendation is accepted by TKDE 2026. Congratulations to Jiakai!"
+    },
+    {
+      date: "1 May 2026",
+      text: "One paper about mobile GUI agents is accepted by ICML 2026 and selected as a <b><font color=\"black\">Spotlight Paper (2.2%)</font></b>."
+    },
+    {
       date: "6 April 2026",
       text: "One paper about tool-integrated reasoning is accepted by ACL 2026. Congratulations to Changle!"
     },
@@ -48,11 +68,11 @@
       text: "Check out our <a href=\"https://arxiv.org/abs/2503.22675\" target=\"_blank\">new work</a> about reasoning for sequential recommendation, which can potentially lift performance ceilings by 30%-50%."
     },
     {
-      date: "11 Feb 2023",
+      date: "11 Feb 2025",
       text: "Our ICLR 2025 paper about LLM tool learning is selected as an <b><font color=\"red\">Oral</font></b> presentation (1.8%). Congratulations to Changle!"
     },
     {
-      date: "23 Jan 2023",
+      date: "23 Jan 2025",
       text: "Two papers are accepted by ICLR 2025, about LLM tool learning and perplexity trap in PLM-based retrieval. Congratulations to Haoyu on his first first-author paper!"
     },
     {
@@ -76,7 +96,7 @@
       text: "Our short paper on repeated consumption modeling is honored as a <b><font color=\"red\">Best Short Paper Nominee</font></b> at SIGIR 2024. Thanks to all co-authors."
     },
     {
-      date: "25 May 2025",
+      date: "25 May 2024",
       text: "One tutorial about bias and unfairness in information retrieval systems is accepted by KDD 2024."
     },
     {

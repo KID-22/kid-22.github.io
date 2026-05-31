@@ -14,6 +14,46 @@
     {
       year: "2026",
       selected: true,
+      paperUrl: "https://arxiv.org/abs/2509.18091",
+      title: "OnePiece: Bringing Context Engineering and Reasoning to Industrial Cascade Ranking System",
+      authors: "<b>Sunhao Dai#</b>, Jiakai Tang#, Jiahua Wu, Kun Wang, Yuxuan Zhu, Bingjun Chen, Bangyang Hong, Yu Zhao, Cong Fu, Kangle Wu, Yabo Ni, Anxiang Zeng, Wenjie Wang, Xu Chen, Jun Xu, See-Kiong Ng",
+      venue: "KDD 2026 (Ads, Accepted Rate: 19.8%) # Equal Contribution <b>(Fully Applied in Shopee)</b>"
+    },
+    {
+      year: "2026",
+      selected: true,
+      paperUrl: "https://kid-22.github.io/",
+      title: "OneRank: Unified Transformer-Native Ranking Architecture for Multi-Task Recommendation",
+      authors: "Jiakai Tang#, <b>Sunhao Dai#</b>, Kun Wang, Zhiluohan Guo, Yu Zhao, Cong Fu, Kangle Wu, Yabo Ni, Anxiang Zeng, Xu Chen, Jun Xu",
+      venue: "KDD 2026 (Ads, Accepted Rate: 19.8%) # Equal Contribution <b>(Fully Applied in Shopee)</b>"
+    },
+    {
+      year: "2026",
+      selected: false,
+      paperUrl: "https://arxiv.org/abs/2509.21317",
+      title: "Interactive Recommendation Agent with Active User Commands",
+      authors: "Jiakai Tang, Wen Chen, Yujie Luo, Xunke Xi, Chao Yi, Dian Chen, Zhujin Gao, Yang Li, Fei Sun, Xueyang Feng, <b>Sunhao Dai</b>, Xu Chen, Jian Wu, Yuning Jiang, Bo Zheng",
+      venue: "KDD 2026 (Full, Accepted Rate: 18.5%)"
+    },
+    {
+      year: "2026",
+      selected: true,
+      paperUrl: "https://arxiv.org/abs/2503.22675",
+      title: "Think Before Recommend: Unleashing the Latent Reasoning Power for Sequential Recommendation",
+      authors: "Jiakai Tang#, <b>Sunhao Dai#</b>, Teng Shi, Jun Xu, Xu Chen, Wen Chen, Jian Wu, Yuning Jiang",
+      venue: "TKDE 2026 (Full) # Equal Contribution"
+    },
+    {
+      year: "2026",
+      selected: false,
+      paperUrl: "https://arxiv.org/abs/2604.06182",
+      title: "VenusBench-Mobile: A Challenging and User-Centric Benchmark for Mobile GUI Agents with Capability Diagnostics",
+      authors: "Yichen Gong, Zhuohan Cai, <b>Sunhao Dai</b>, Yuqi Zhou, Zhangxuan Gu, Changhua Meng, Shuheng Shen",
+      venue: "ICML 2026 (Full, Accepted Rate: 26.6%) &nbsp;&nbsp; <b><font color=\"red\">(Spotlight, 2.2%) (Oral, 0.7%)</font></b>"
+    },
+    {
+      year: "2026",
+      selected: true,
       paperUrl: "https://arxiv.org/abs/2604.04949",
       title: "Learning to Retrieve from Agent Trajectories",
       authors: "Yuqi Zhou#, <b>Sunhao Dai#*</b>, Changle Qu, Liang Pang, Jun Xu, Ji-Rong Wen",
@@ -245,10 +285,18 @@
     }
   ];
 
+  function renderPaperLink(url) {
+    if (!url) {
+      return "";
+    }
+
+    return "<a href=\"" + url + "\" target=\"_blank\"><img src=\"./images/pdf.png\" width=\"25\" height=\"25\"><br>pdf</a>";
+  }
+
   function renderPaper(paper) {
     return [
       "<table class=\"publication\" data-selected=\"" + (paper.selected ? "true" : "false") + "\"><tbody><tr>",
-      "  <td class=\"left\"><a href=\"" + paper.paperUrl + "\" target=\"_blank\"><img src=\"./images/pdf.png\" width=\"25\" height=\"25\"><br>pdf</a></td>",
+      "  <td class=\"left\">" + renderPaperLink(paper.paperUrl) + "</td>",
       "  <td>",
       "    <span class=\"title\">" + paper.title + "</span>",
       "    <br>" + paper.authors,
