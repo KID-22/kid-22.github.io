@@ -4,7 +4,7 @@
       paperUrl: "https://arxiv.org/abs/2604.19859",
       title: "DR-Venus: Towards Frontier Edge-Scale Deep Research Agents with Only 10K Open Data",
       authors: "Venus Team, <b>Sunhao Dai</b> <b>(Project Leader)</b>, Yong Deng, Jinzhen Lin, Yusheng Song, Guoqing Wang, Xiaofeng Wu, Yuqi Zhou, Shuo Yang, Zhenzhe Ying, Zhanwei Zhang, Changhua Meng, Weiqiang Wang",
-      note: "Technical Report (<b><font color=\"red\">SOTA Deep Research Agent under 10B parameters trained with only 10K open-source data, BrowseComp 29.1, BrowseComp-ZH 37.7</font></b>)"
+      note: "Technical Report (<b>SOTA Deep Research Agent under 10B parameters trained with only 10K open-source data, BrowseComp 29.1, BrowseComp-ZH 37.7</b>)"
     },
     {
       paperUrl: "https://arxiv.org/abs/2507.22879",
