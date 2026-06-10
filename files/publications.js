@@ -17,7 +17,7 @@
       paperUrl: "https://arxiv.org/abs/2509.18091",
       title: "OnePiece: Bringing Context Engineering and Reasoning to Industrial Cascade Ranking System",
       authors: "<b>Sunhao Dai#</b>, Jiakai Tang#, Jiahua Wu, Kun Wang, Yuxuan Zhu, Bingjun Chen, Bangyang Hong, Yu Zhao, Cong Fu, Kangle Wu, Yabo Ni, Anxiang Zeng, Wenjie Wang, Xu Chen, Jun Xu, See-Kiong Ng",
-      venue: "KDD 2026 (Ads, Accepted Rate: 19.8%) # Equal Contribution <b>(Fully Applied in Shopee)</b>"
+      venue: "KDD 2026 (Ads, Accepted Rate: 19.8%) # Equal Contribution <b>(Fully Applied in Shopee)</b> &nbsp;&nbsp; <b><font color=\"red\">(Oral Presentation, 5.2%)</font></b>"
     },
     {
       year: "2026",
@@ -81,7 +81,7 @@
       paperUrl: "https://arxiv.org/abs/2510.14967",
       title: "Information Gain-based Policy Optimization: A Simple and Effective Approach for Multi-Turn Search Agents",
       authors: "Guoqing Wang#, <b>Sunhao Dai#</b>, Guangze Ye#, Zeyu Gan, Wei Yao, Yong Deng, Xiaofeng Wu, Zhenzhe Ying",
-      venue: "ICLR 2026 (Full, Accepted Rate: 27.4%) # Equal Contribution"
+      venue: "ICLR 2026 (Full, Accepted Rate: 27.4%) # Equal Contribution &nbsp;&nbsp; <b><font color=\"black\">(Simple and Effective, Try it!)</font></b>"
     },
     {
       year: "2025",

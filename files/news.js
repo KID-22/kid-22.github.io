@@ -8,6 +8,10 @@
   // },
   var newsItems = [
     {
+      date: "10 June 2026",
+      text: "Our OnePiece paper is selected as an <b><font color=\"red\">Oral Presentation (5.2%)</font></b> at KDD 2026 Ads track."
+    },
+    {
       date: "24 May 2026",
       text: "Our VenusBench-Mobile is selected as a <b><font color=\"red\">Oral (0.7%)</font></b> presentation at ICML 2026."
     },
