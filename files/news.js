@@ -16,6 +16,10 @@
       text: "Our VenusBench-Mobile is selected as a <b><font color=\"red\">Oral (0.7%)</font></b> presentation at ICML 2026."
     },
     {
+      date: "20 May 2026",
+      text: "Successfully defended my Ph.D. dissertation. Grateful to my advisors and collaborators!"
+    },
+    {
       date: "17 May 2026",
       text: "Two papers about reasoning for industrial ranking systems and unified multi-task ranking architecture are accepted by KDD 2026 Ads track."
     },
