@@ -57,7 +57,7 @@
       paperUrl: "https://arxiv.org/abs/2604.04949",
       title: "Learning to Retrieve from Agent Trajectories",
       authors: "Yuqi Zhou#, <b>Sunhao Dai#*</b>, Changle Qu, Liang Pang, Jun Xu, Ji-Rong Wen",
-      venue: "SIGIR 2026 (Full, Accepted Rate: 18.4%) # Equal Contribution <b>* Project Leader</b>"
+      venue: "SIGIR 2026 (Full, Accepted Rate: 18.4%) # Equal Contribution <b>* Project Leader</b> (Oral)"
     },
     {
       year: "2026",
@@ -129,7 +129,7 @@
       paperUrl: "https://dl.acm.org/doi/10.1145/3711896.3737105",
       title: "Revisiting Clustering of Neural Bandits: Selective Reinitialization for Mitigating Loss of Plasticity",
       authors: "Zhiyuan Su, <b>Sunhao Dai</b>, Xiao Zhang",
-      venue: "KDD 2025 (Full, Accepted Rate: 18.4%)"
+      venue: "KDD 2025 (Full, Accepted Rate: 18.4%) (Oral)"
     },
     {
       year: "2025",
@@ -137,7 +137,7 @@
       paperUrl: "https://dl.acm.org/doi/10.1145/3726302.3730353",
       title: "NExT-Search: Rebuilding User Feedback Ecosystem for Generative AI Search",
       authors: "<b>Sunhao Dai</b>, Wenjie Wang, Liang Pang, Jun Xu, See-Kiong Ng, Ji-Rong Wen, Tat-Seng Chua",
-      venue: "SIGIR 2025 (Perspectives, Accepted Rate: 23.8%)"
+      venue: "SIGIR 2025 (Perspectives, Accepted Rate: 23.8%) (Oral)"
     },
     {
       year: "2025",
@@ -145,7 +145,7 @@
       paperUrl: "https://dl.acm.org/doi/10.1145/3726302.3730038",
       title: "Mitigating Source Bias with LLM Alignment",
       authors: "<b>Sunhao Dai</b>, Yuqi Zhou, Liang Pang, Zhuoyang Li, Zhaocheng Du, Gang Wang, Jun Xu",
-      venue: "SIGIR 2025 (Full, Accepted Rate: 21.5%)"
+      venue: "SIGIR 2025 (Full, Accepted Rate: 21.5%) (Oral)"
     },
     {
       year: "2025",
@@ -153,7 +153,7 @@
       paperUrl: "https://dl.acm.org/doi/10.1145/3726302.3729972",
       title: "Exploring the Escalation of Source Bias in User, Data, and Recommender System Feedback Loop",
       authors: "Yuqi Zhou, <b>Sunhao Dai</b>, Liang Pang, Gang Wang, Zhenhua Dong, Jun Xu, Ji-Rong Wen",
-      venue: "SIGIR 2025 (Full, Accepted Rate: 21.5%)"
+      venue: "SIGIR 2025 (Full, Accepted Rate: 21.5%) (Oral)"
     },
     {
       year: "2025",
@@ -193,7 +193,7 @@
       paperUrl: "https://dl.acm.org/doi/10.1145/3627673.3679847",
       title: "Towards Completeness-Oriented Tool Retrieval for Large Language Models",
       authors: "Changle Qu, <b>Sunhao Dai</b>, Xiaochi Wei, Hengyi Cai, Shuaiqiang Wang, Dawei Yin, Jun Xu, Ji-Rong Wen",
-      venue: "CIKM 2024 (Full, Accepted Rate: 22.7%)"
+      venue: "CIKM 2024 (Full, Accepted Rate: 22.7%) (Oral)"
     },
     {
       year: "2024",
@@ -201,7 +201,7 @@
       paperUrl: "https://dl.acm.org/doi/10.1145/3627673.3679643",
       title: "SAQRec: Aligning Recommender Systems to User Satisfaction via Questionnaire Feedback",
       authors: "Kepu Zhang, Teng Shi, <b>Sunhao Dai</b>, Xiao Zhang, Yinfeng Li, Jing Lu, Xiaoxue Zang, Yang Song, Jun Xu",
-      venue: "CIKM 2024 (Full, Accepted Rate: 22.7%)"
+      venue: "CIKM 2024 (Full, Accepted Rate: 22.7%) (Oral)"
     },
     {
       year: "2024",
@@ -209,7 +209,7 @@
       paperUrl: "https://dl.acm.org/doi/10.1145/3637528.3671882",
       title: "Neural Retrievers are Biased Towards LLM-Generated Content",
       authors: "<b>Sunhao Dai</b>, Yuqi Zhou, Liang Pang, Weihao Liu, Xiaolin Hu, Yong Liu, Xiao Zhang, Gang Wang, Jun Xu",
-      venue: "KDD 2024 (Full, Accepted Rate: 20.1%)"
+      venue: "KDD 2024 (Full, Accepted Rate: 20.1%) (Oral)"
     },
     {
       year: "2024",
@@ -217,7 +217,7 @@
       paperUrl: "https://dl.acm.org/doi/10.1145/3637528.3671661",
       title: "Towards Robust Recommendation via Decision Boundary-Aware Graph Contrastive Learning",
       authors: "Jiakai Tang, <b>Sunhao Dai</b>, Zexu Sun, Xu Chen, Jun Xu, Wenhui Yu, Lantao Hu, Peng Jiang, Han Li",
-      venue: "KDD 2024 (Full, Accepted Rate: 20.1%)"
+      venue: "KDD 2024 (Full, Accepted Rate: 20.1%) (Oral)"
     },
     {
       year: "2024",
@@ -225,7 +225,7 @@
       paperUrl: "https://dl.acm.org/doi/10.1145/3637528.3671734",
       title: "Revisiting Reciprocal Recommender Systems: Metrics, Formulation, and Method",
       authors: "Chen Yang, <b>Sunhao Dai</b>, Yupeng Hou, Xin Zhao, Jun Xu, Yang Song, Hengshu Zhu",
-      venue: "KDD 2024 (Full, Accepted Rate: 20.1%)"
+      venue: "KDD 2024 (Full, Accepted Rate: 20.1%) (Oral)"
     },
     {
       year: "2024",
@@ -241,7 +241,7 @@
       paperUrl: "https://dl.acm.org/doi/10.1145/3626772.3657714",
       title: "Reinforcing Long-Term Performance in Recommender Systems with User-Oriented Exploration Policy",
       authors: "Changshuo Zhang, Sirui Chen, Xiao Zhang, <b>Sunhao Dai</b>, Weijie Yu, Jun Xu",
-      venue: "SIGIR 2024 (Full, Accepted Rate: 20.2%)"
+      venue: "SIGIR 2024 (Full, Accepted Rate: 20.2%) (Oral)"
     },
     {
       year: "2024",
@@ -257,7 +257,7 @@
       paperUrl: "https://ieeexplore.ieee.org/document/10598060/",
       title: "Modeling User Attention in Music Recommendation",
       authors: "<b>Sunhao Dai</b>, Ninglu Shao, Jieming Zhu, Xiao Zhang, Zhenhua Dong, Jun Xu, Quanyu Dai, Ji-Rong Wen",
-      venue: "ICDE 2024 (Full, Accepted Rate: 22.8%)"
+      venue: "ICDE 2024 (Full, Accepted Rate: 22.8%) (Oral)"
     },
     {
       year: "2023",
@@ -265,7 +265,7 @@
       paperUrl: "https://dl.acm.org/doi/10.1145/3583780.3614856",
       title: "Dually Enhanced Delayed Feedback Modeling for Streaming Conversion Rate Prediction",
       authors: "<b>Sunhao Dai</b>, Yuqi Zhou, Jun Xu, Ji-Rong Wen",
-      venue: "CIKM 2023 (Full, Accepted Rate: 24.0%)"
+      venue: "CIKM 2023 (Full, Accepted Rate: 24.0%) (Oral)"
     },
     {
       year: "2023",
@@ -281,7 +281,7 @@
       paperUrl: "https://dl.acm.org/doi/10.1145/3534678.3539393",
       title: "Counteracting User Attention Bias in Music Streaming Recommendation via Reward Modification",
       authors: "Xiao Zhang#, <b>Sunhao Dai#</b>, Jun Xu, Zhenhua Dong, Quanyu Dai, Ji-Rong Wen",
-      venue: "KDD 2022 (Full, Accepted Rate: 15.0%) &nbsp;&nbsp; # Equal Contribution"
+      venue: "KDD 2022 (Full, Accepted Rate: 15.0%) &nbsp;&nbsp; # Equal Contribution (Oral)"
     }
   ];
 
